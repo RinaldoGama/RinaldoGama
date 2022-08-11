@@ -1,4 +1,4 @@
-## Olá eu sou o Rinaldo 👨🏽👋🏽😎🇧🇷
+## Olá eu sou o Rinaldo Gama 👨🏽👋🏽😎🇧🇷
 
 <!--
 **RinaldoGama/RinaldoGama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
