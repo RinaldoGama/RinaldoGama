@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 ###
 - 🎓 Processamento de Dados - Colegio Bento Quirino
 - 🎓 Bacharel de Sistemas de Informação - Uniesp
-- 🎓 MBA - Ciência de Dados e Big Data Analytics - Uniesp
+- 🎓 MBA - Ciência de Dados e Big Data Analytics - Estacio
 - 💻 Apaixonado por Técnologicas
 - 👯 Focado em aprimorar melhor os conhecimentos em analise de dados e BigData 📊📈... InfraEsturura de TI📡☁🤖
 
