@@ -73,4 +73,4 @@ Usei a API deste site para gerar o numero de visitantes
 
 ![Snake animation](https://github.com/rinaldogama/rinaldogama/blob/output/github-contribution-grid-snake.svg)
 
-(https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+
