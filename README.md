@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rinaldogama&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img src="https://github-readme-stats.vercel.app/api?username=rinaldogama&show_icons=true&theme=graywhite&include_all_commits=true">
 <!--
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=rinaldogama&repo=github-readme-stats&cache_seconds=86400&theme=graywhite">
