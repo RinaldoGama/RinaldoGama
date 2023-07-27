@@ -71,7 +71,7 @@ Usei a API deste site para gerar o numero de visitantes
 <a href="https://github.com/techytushar/random-memer"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
 -->
 
-![Snake animation](https://github.com/rinaldogama/rinaldogama/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rinaldogama/rinaldogama/blob/output/github-contribution-grid-snake.gif)
 
 #### Foco nos objetivos
 <img src=https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif>
