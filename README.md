@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 
 
-<!--
+
 <img src="https://github-readme-stats.vercel.app/api?username=rinaldogama&show_icons=true&theme=graywhite&include_all_commits=true">
--->
+
 <!--
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=rinaldogama&repo=github-readme-stats&cache_seconds=86400&theme=graywhite">
 -->
