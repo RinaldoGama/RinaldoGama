@@ -47,6 +47,10 @@ Here are some ideas to get you started:
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
+Badges🌐
+<div>
+<img src="https://www.credly.com/badges/79248bf5-16c7-4e4a-9e62-1e76908c4413/public_url" /a>
+</div>
 
 
 ### Acredito na força do Networking 🤝🏽
