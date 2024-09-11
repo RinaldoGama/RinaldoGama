@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 ### Badges🌐
 <div>
-<img align="center" alt="html5" src="https://images.credly.com/size/340x340/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png "  width="150" height="150" />
+<img align="center" alt="html5" src="https://images.credly.com/size/680x680/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png "  width="150" height="150" />
 </div>
 
 
