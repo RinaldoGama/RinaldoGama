@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 ### Badges🌐
 <div>
-<img align="center" src="https://images.credly.com/size/340x340/images/b1395248-483c-48cd-b40d-7fe93837c37d/image.png "  width="150" height="150" />
+<img align="center" src="https://images.credly.com/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png"  width="150" height="150" />
 </div>
 
 
