@@ -55,6 +55,7 @@ Here are some ideas to get you started:
 <img align="center" src="https://images.credly.com/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png"  width="150" height="150" />
 <img align="center" src="https://images.credly.com/size/680x680/images/31459fb8-0734-4078-9175-dd1a6e56de4a/01_cyberops_associate_300.png"  width="150" height="150" />
 <img align="center" src="https://media.badgr.com/uploads/badges/05a60f1c-b3f6-47fc-b288-0391228f66b5.png"  width="150" height="150" />
+<img align="center" src="https https://images.credly.com/size/680x680/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png"  width="150" height="150" />
 </div>
 
 
