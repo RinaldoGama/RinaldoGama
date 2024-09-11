@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 Badges🌐
 <div>
-       <img height="30" width="40" src=https://www.credly.com/badges/79248bf5-16c7-4e4a-9e62-1e76908c4413/public_url" />
+       <img height="30" width="40" src="https://www.credly.com/badges/79248bf5-16c7-4e4a-9e62-1e76908c4413/public_url" />
 </div>
 
 
