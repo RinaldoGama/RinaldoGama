@@ -48,7 +48,9 @@ Here are some ideas to get you started:
 </div>
 
 Badges🌐
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="79248bf5-16c7-4e4a-9e62-1e76908c4413" data-share-badge-host="https://www.credly.com"></div>
+<div>
+       <img height="30" width="40" src=https://www.credly.com/badges/79248bf5-16c7-4e4a-9e62-1e76908c4413/public_url" />
+</div>
 
 
 
