@@ -48,9 +48,8 @@ Here are some ideas to get you started:
 </div>
 
 Badges🌐
-<div>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="79248bf5-16c7-4e4a-9e62-1e76908c4413" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-</div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="79248bf5-16c7-4e4a-9e62-1e76908c4413" data-share-badge-host="https://www.credly.com"></div>
+
 
 
 ### Acredito na força do Networking 🤝🏽
